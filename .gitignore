@@ -1,0 +1,26 @@
+# IDE FILES
+.vscode
+.idea
+.DS_Store
+
+# BINARY FILES
+**/*.a
+**/*.out
+**/unit_test*
+setting_up
+
+# LOGS FILES
+**/*.log
+
+# TEMPORARY FILES
+**/*~
+**/*.o
+**/*.gcno
+
+# TESTING FILES
+test.c
+main_test.c
+test_main.c
+generator.pl
+maps/*
+run_all_files.sh
