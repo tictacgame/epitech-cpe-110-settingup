@@ -142,7 +142,7 @@ Here’s how I build and run the program:
 
 3. Generate and solve a board dynamically:
    ```bash
-   ./setting_up <width> <height> <pattern>
+   ./setting_up <size> <pattern>
    ```
 
 Thanks for checking out my epitech project, and happy coding!
